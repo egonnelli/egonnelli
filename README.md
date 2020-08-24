@@ -2,6 +2,10 @@
 
 Welcome to my github :)
 
+- 🌱 I’m currently learning Bayesian Statistics and Machine Learning applied to Finance and Portfolio Management.
+
+- 📫 How to reach me: I synthesized all my personal information on my website in the following link: [egonnelli.github.io](https://egonnelli.github.io) 
+
 <!--
 **egonnelli/egonnelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
